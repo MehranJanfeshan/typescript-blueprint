@@ -1,2 +1,2 @@
-# typescript-blue-print
-# typescript-blue-print
+# Typescript Blueprint
+Minimalistic boilerplate to quick-start Node.js development in TypeScript.
